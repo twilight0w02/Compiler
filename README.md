@@ -1,5 +1,6 @@
-# VoltLang
 
+# VoltLang
+# Coming Soon (I guess)
 > A from-scratch, production-grade compiler & bytecode interpreter written in modern C++23 — featuring a hand-written recursive-descent parser, a multi-pass semantic analyzer, a register-based virtual machine, and a REPL.
 
 ```
